@@ -37,8 +37,6 @@ Aqui, você encontrará um pouco sobre minha trajetória e tecnologias com as qu
 
 ---
 
-### 💻 Uma imagem que representa minha jornada como programador:
-
 <div align="center">
   <img width="800" height="400" src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-b068-51f6-9c2a-988f7e4ffc8a/raw?se=2025-04-03T18%3A07%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=48d09a48-c0e5-5388-b9f1-ec125e9a1891&skoid=3f3a9132-9530-48ef-96b7-fee5a811733f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-03T04%3A05%3A54Z&ske=2025-04-04T04%3A05%3A54Z&sks=b&skv=2024-08-04&sig=iQRfp0qp2ptvQN5cRnS%2BUh0UeECXB8s4BC4op%2Bjhhb0%3D"  />
 </div>
